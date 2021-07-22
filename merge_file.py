@@ -1,4 +1,4 @@
-prefix_filename = "Models/character1_best_map.hdf5"
+prefix_filename = "Models/plate_best_map.hdf5"
 num_files = 7
 with open(prefix_filename, 'wb') as f:
 	for idx in range(num_files):
