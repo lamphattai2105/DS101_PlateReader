@@ -1,5 +1,5 @@
 # DS101_PlateReader
-The purpose of this project is to detect Plates of all vehicles on Viet Nam streets and then recognize exactly the characters on these.
+The purpose of this project is to detect Plates of all vehicles on Viet Nam streets and then recognize exactly the characters on them.
 
 ## How to use
 
